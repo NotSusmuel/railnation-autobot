@@ -1,6 +1,8 @@
 # Railnation Autobot
 Ein Bot um in Railnation Werbung zu gucken
 
+![UI Screenshot](ui_screenshot.png)
+
 ## Features
 - 🎨 **Modern UI** - Benutzerfreundliche grafische Oberfläche mit dunklem Theme
 - ⚡ **Keyboard Shortcuts** - F5 zum Starten, F6 zum Stoppen
@@ -22,6 +24,10 @@ pip install pyautogui pillow
 ## Verwendung
 
 ### Mit UI (empfohlen)
+```bash
+python3 start_ui.py
+```
+Oder direkt:
 ```bash
 python3 railnation_ui.py
 ```
